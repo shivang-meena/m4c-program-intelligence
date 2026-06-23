@@ -1,7 +1,7 @@
 
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { fetchAvailableGrants, fetchGrantDetails, generateReportNarrative } from '../services/api';
-import { FileText, Image as ImageIcon, DollarSign, Activity, Bot, ShieldAlert } from 'lucide-react';
+import {  Image as ImageIcon, DollarSign,  Bot, ShieldAlert } from 'lucide-react';
 
 const GrantAssistant = () => {
   const [grants, setGrants] = useState<any[]>([]);

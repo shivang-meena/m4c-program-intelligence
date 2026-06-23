@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react';
 import { useFilterContext } from '../context/FilterContext';
 import { fetchDistrictPerformance } from '../services/api';
-import { Map, AlertTriangle, TrendingUp } from 'lucide-react';
+import { Map, AlertTriangle } from 'lucide-react';
 
 interface DistrictItem {
   district: string;
