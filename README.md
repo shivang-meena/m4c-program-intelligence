@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./frontend/public/favicon.svg" width="120" alt="M4C Program Intelligence Logo" />
+  <img src="./frontend/public/logo.svg" width="120" alt="M4C Program Intelligence Logo" />
 </p>
 
 
