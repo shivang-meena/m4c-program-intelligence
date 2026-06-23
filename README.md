@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://m4c-program-intelligence.vercel.app/favicon.svg" width="120" alt="M4C Program Intelligence Logo" />
+  <img src="./frontend/public/favicon.svg" width="120" alt="M4C Program Intelligence Logo" />
 </p>
+
 
 <h1 align="center">M4C Program Intelligence</h1>
 
